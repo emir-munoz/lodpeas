@@ -1,0 +1,224 @@
+/* ribbon not used currently */
+#ribbon {
+	position: absolute;
+	top: -3px;
+	left: -15px;
+	z-index: 500;
+}
+
+#disambigua {
+	width: 220px;
+	margin: 0 auto 0;
+	position: relative;
+	z-index: 0;
+	height: 180px;
+}
+
+/*
+	Slideshow
+*/
+#slides { 
+	/* position:absolute; */
+	top: 15px;
+	left: 4px;
+	z-index: 100;
+}
+
+#disambiguation {
+	position:absolute;
+	top:0px;
+	/* left:-8px; */
+	z-index:100;
+	-moz-text-align-last: center;
+	width: 220px;
+}
+
+#disambiguation .link {
+	display:block;
+	margin-top:10px;
+	font-weight:800;
+}
+
+#disambiguation h1 {
+	font-size:1.2em;
+}
+
+#disambiguation h2 {
+	margin-bottom:5px;
+	font-size:1.1em;
+}
+
+#disambiguation p {
+	font-size:0.9em;
+	margin-bottom:0px;
+	margin-top:0px;
+}
+
+/*
+	Slides container
+	Important:
+	Set the width of your slides container
+	Set to display none, prevents content flash
+*/
+.slides_container {
+	width: 380px;
+	overflow: hidden;
+	position: relative;
+	display: none;
+	-moz-text-align-last: center; /* center content */
+}
+
+.slides_disambiguation {
+	/* width:200px; */
+	height:145px;
+	overflow:hidden;
+	position:relative;
+	display:none;
+}
+
+.slides_disambiguation div {
+	width:200px;
+	height:145px;
+	display:block;
+}
+
+/*
+	Each slide
+	Important:
+	Set the width of your slides
+	If height not specified height will be set by the slide content
+	Set to display block
+*/
+.slides_container div {
+	width: 380px;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-height: 220px;
+}
+
+.slides_container a {
+	width: 380px;
+	height: 270px;
+	display: block;
+}
+
+.slides_container a img {
+	display: block;
+}
+
+#disambiguation .slide {
+	/*padding:20px;*/
+	padding-left:20px;
+	width:180px;
+	height:170px;
+	display:block;
+}
+
+/*
+	Next/prev buttons
+*/
+#slides .next,
+#slides .prev {
+	position: absolute;
+	top: 107px;
+	left: -39px;
+	width: 24px;
+	height: 43px;
+	display: block;
+	z-index: 101;
+}
+
+#slides .next {
+	left: 385px;
+}
+
+#disambiguation .next-dis,
+#disambiguation .prev-dis {
+	position:absolute;
+	top:70px;
+	left:-10px;
+	width:24px;
+	height:43px;
+	display:block;
+	z-index:101;
+}
+
+#disambiguation .next-dis {
+	left:205px;
+}
+
+/*
+	Pagination
+*/
+.pagination {
+	margin: 15px auto 0;
+	width: 100px;
+}
+
+.pagination li {
+	float: left;
+	margin: 0 1px;
+	list-style: none;
+}
+
+.pagination li a {
+	display: block;
+	width: 12px;
+	height: 0;
+	padding-top: 12px;
+	background-image: url(../img/pagination.png);
+	background-position: 0 0;
+	float: left;
+	overflow: hidden;
+}
+
+.pagination li.current a {
+	background-position: 0 -12px;
+}
+
+/*
+	dispagination
+*/
+
+.dispagination {
+	margin-left: auto;
+    margin-right: auto;
+	width:140px;
+	padding-left:8px;
+}
+
+.dispagination li {
+	float:left;
+	margin:0 1px;
+	list-style:none;
+}
+
+.dispagination li a {
+	display:block;
+	width:12px;
+	height:0;
+	padding-top:12px;
+	background-image:url(../img/pagination.png);
+	background-position:0 0;
+	float:left;
+	overflow:hidden;
+}
+
+.dispagination li.current a {
+	background-position:0 -12px;
+}
+
+/*
+	Anchors
+*/
+a:link,a:visited {
+	color: #599100;
+	text-decoration: none;
+}
+
+a:hover,a:active {
+	color: #599100;
+	text-decoration: underline;
+}

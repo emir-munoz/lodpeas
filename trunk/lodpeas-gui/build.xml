@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="lodpeas" basedir="." default="usage">
+    <property file="build.properties"/>
+    <property name="src.dir" value="src" />
+    <property name="web.dir" value="WebContent" />
+    <property name="build.dir" value="${basedir}/build" />
+    <property name="name" value="lodpeas-gui" />
+
+    <path id="project-classpath">
+    	<!--  here give path for jar repository -->
+    	<!-- ${appserver.home}/common/lib -->
+    	<!--<fileset dir="${server.lib}"> 
+    		<include name="servlet*.jar" />
+    	</fileset>-->
+    	<fileset dir="${web.dir}/WEB-INF/lib">
+    		<include name="*.jar" />
+    	</fileset>
+	<!--<fileset dir="${web.dir}/js">
+    		<include name="*.*" />
+    	</fileset>
+	<fileset dir="${web.dir}/css">
+    		<include name="*.*" />
+    	</fileset>-->
+    	<pathelement path="${build.dir}" />
+    </path>
+
+    <target name="usage">
+        <echo message=""/>
+        <echo message="${name} build file"/>
+        <echo message="-----------------------------------"/>
+        <echo message=""/>
+        <echo message="Available targets are:"/>
+        <echo message=""/>
+        <echo message="build     --> Build the application"/>
+        <echo message="deploy    --> Deploy application as directory"/>
+        <echo message="deploywar --> Deploy application as a WAR file"/>
+        <echo message="install   --> Install application in Tomcat"/>
+        <echo message="reload    --> Reload application in Tomcat"/>
+        <echo message="start     --> Start Tomcat application"/>
+        <echo message="stop      --> Stop Tomcat application"/>
+        <echo message="list      --> List Tomcat applications"/>
+        <echo message=""/>
+    </target>
+
+    <target name="build" depends="compile" description="build project, but first compile it">
+         <war destfile="build/${name}.war"
+             webxml="${web.dir}/WEB-INF/web.xml">
+             <lib dir="${web.dir}/WEB-INF/lib"/>
+             <classes dir="${build.dir}/classes" />
+            <fileset dir="${web.dir}">
+                <include name="**/*.*"/>
+            	<exclude name="**/*.htm"/>
+            </fileset>
+        </war>
+    </target>
+
+    <target name="compile" description="Compile java files and place them webContents/web-inf/">
+    	<mkdir dir="${build.dir}/classes"/>
+        <javac destdir="${build.dir}/classes" failonerror="true">
+            <src path="${src.dir}"/>
+            <classpath refid="project-classpath"/>
+        </javac>
+    </target>
+
+    <target name="clean">
+    	 <delete dir="${build.dir}" failonerror="true"/>
+    </target>
+</project>
+
