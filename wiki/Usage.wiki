@@ -1,13 +1,19 @@
 = Usage =
 
-LODPeas requires two inputs in order run i.e. a quad dataset and a redirects file.  For example inputs see data collected form the [http://swse.deri.org/dyldo/ Dynamic Linked Data Observatory project].  Specifically see [http://swse.deri.org/dyldo/data/2012-05-06/data.nq.gz here] for example input file and [http://swse.deri.org/dyldo/data/2012-05-06/redirects.nx.gz here] for example redirects file.
+LODPeas requires two inputs in order run i.e. a quad dataset and a redirects file.  For example inputs see data collected form the [http://swse.deri.org/dyldo/ Dynamic Linked Data Observatory project].  Specifically see [http://swse.deri.org/dyldo/data/2012-05-06/data.nq.gz here] for example dataset and [http://swse.deri.org/dyldo/data/2012-05-06/redirects.nx.gz here] for example redirects file.
+
 
 == LODPeas-build ==
-LODPeas-build uses the latest [http://code.google.com/p/lodpeas/downloads/list jar] to build the required files for LODPeas-gui.  There are fifteen commands in total.  We have created a script called [http://code.google.com/p/lodpeas/downloads/list runConker.sh] for convenience.  The following is an example command for runConker.sh where 2G is the memory to the jvm.
+
+LODPeas-build uses the latest [http://code.google.com/p/lodpeas/downloads/list jar] to build the required files for LODPeas-gui.  There are fifteen commands in total.  We have created a script called [http://code.google.com/p/lodpeas/downloads/list runLODPeas.sh] for convenience.  The following is an example command for runLODPeas.sh where 2G is the memory to the jvm.
 {{{
-#sh runConker.sh quad_dataset.nq.gz redirects.nq.gz 2G
+#sh runLODPeas.sh quad_dataset.nq.gz redirects.nq.gz 2G
 }}}
-runConker.sh assumes that both inputs are gzipped.
+runLODPeas.sh assumes that both inputs are gzipped.
+
+LODPeas-build produces the following
+
+
 
 
 == LODPeas-gui ==
