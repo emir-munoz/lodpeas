@@ -5,7 +5,7 @@ LODPeas requires two inputs in order run i.e. a quad dataset and a redirects fil
 
 == LODPeas-build ==
 
-LODPeas-build uses the latest [http://code.google.com/p/lodpeas/downloads/list jar] to build the required files for LODPeas-gui.  There are fifteen commands in total.  We have created a script called [http://code.google.com/p/lodpeas/downloads/list runLODPeas.sh] for convenience.  The following is an example command for runLODPeas.sh where 2G is the memory to the jvm.
+LODPeas-build uses the latest [http://code.google.com/p/lodpeas/downloads/list jar] (using Java 6) to build the required files for LODPeas-gui.  There are fifteen commands in total.  We have created a script called [http://code.google.com/p/lodpeas/downloads/list runLODPeas.sh] for convenience.  The following is an example command for runLODPeas.sh where 2G is the memory to the jvm.
 {{{
 #sh runLODPeas.sh quad_dataset.nq.gz redirects.nq.gz 2G
 }}}
