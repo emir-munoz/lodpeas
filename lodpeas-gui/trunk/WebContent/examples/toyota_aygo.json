@@ -1,0 +1,1338 @@
+[
+{
+"disambiguation"	:
+[
+{
+"id" : "<http://dbpedia.org/resource/Aygo>",
+"name" : "Toyota Aygo",
+"data" : {
+"asciiname" : "\"Toyota Aygo\"@en",
+"comment" : "The Toyota Aygo (\"I go\") is a city car sold by Toyota in Europe since 2005. All Aygos are built at the new factory of the Toyota Peugeot Citro\u00EBn Automobile Czech (TPCA) joint venture in Kolin, Czech Republic. The Aygo was first displayed at the 2005 Salon de l'Automobile de Gen\u00E8ve. The name \"Aygo\" comes ...",
+"image" : [ 
+"http://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Toyota_Aygo_front.JPG/200px-Toyota_Aygo_front.JPG" ,
+"http://upload.wikimedia.org/wikipedia/commons/2/26/Toyota_Aygo_front.JPG"
+] ,
+"alias" : [ 
+"<http://dbpedia.org/resource/Aygo>" ,
+"<http://dbpedia.org/resource/Toyota_Aygo_Crazy>" ,
+"<http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Toyota_Aygo>" ,
+"<http://mpii.de/yago/resource/Toyota_Aygo>" ,
+"<http://dbpedia.org/resource/Toyota_Aygo>" ,
+"<http://rdf.freebase.com/ns/m.05_nrb>" ,
+"<http://rdf.freebase.com/ns/m/05_nrb>"
+] ,
+"kwscore" : "142.188720703125",
+"prank" : "8.296596206491813E-6"
+}
+}
+,
+{
+"id" : "<http://dbpedia.org/resource/Peugeot_107>",
+"name" : "Peugeot 107",
+"data" : {
+"asciiname" : "\"Peugeot 107\"@en",
+"comment" : "The Peugeot 107 is a city car produced by French automaker Peugeot since mid 2005. The 107 was developed by the B-Zero project of PSA Peugeot Citro\u00EBn in a joint-venture with Toyota; the Citro\u00EBn C1 and Toyota Aygo are badge engineered versions of the same car, although the Aygo has more detail differences ...",
+"image" : [ 
+"http://upload.wikimedia.org/wikipedia/commons/5/5b/Peugeot_107_front_20071203.jpg" ,
+"http://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Peugeot_107_front_20071203.jpg/200px-Peugeot_107_front_20071203.jpg"
+] ,
+"alias" : [ 
+"<http://rdf.freebase.com/ns/m/04mbd2>" ,
+"<http://mpii.de/yago/resource/Peugeot_107>" ,
+"<http://dbpedia.org/resource/Peugeot_107>" ,
+"<http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Peugeot_107>"
+] ,
+"kwscore" : "0.333071231842041",
+"prank" : "8.710938345757313E-6"
+}
+}
+]
+}
+,
+{
+"id" : "<http://dbpedia.org/resource/Aygo>",
+"name" : "Toyota Aygo",
+"data" : {
+"asciiname" : "\"Toyota Aygo\"@en",
+"$color" : "#00FF00",
+"$type" : "circle",
+"comment" : "The Toyota Aygo (\"I go\") is a city car sold by Toyota in Europe since 2005. All Aygos are built at the new factory of the Toyota Peugeot Citro\u00EBn Automobile Czech (TPCA) joint venture in Kolin, Czech Republic. The Aygo was first displayed at the 2005 Salon de l'Automobile de Gen\u00E8ve. The name \"Aygo\" comes ...",
+"$dim" : "20",
+"image" : [ 
+"http://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Toyota_Aygo_front.JPG/200px-Toyota_Aygo_front.JPG" ,
+"http://upload.wikimedia.org/wikipedia/commons/2/26/Toyota_Aygo_front.JPG"
+] ,
+"alias" : [ 
+"<http://dbpedia.org/resource/Aygo>" ,
+"<http://dbpedia.org/resource/Toyota_Aygo_Crazy>" ,
+"<http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Toyota_Aygo>" ,
+"<http://mpii.de/yago/resource/Toyota_Aygo>" ,
+"<http://dbpedia.org/resource/Toyota_Aygo>" ,
+"<http://rdf.freebase.com/ns/m.05_nrb>" ,
+"<http://rdf.freebase.com/ns/m/05_nrb>"
+] ,
+"kwscore" : "142.188720703125",
+"prank" : "8.296596206491813E-6"
+}
+,
+"adjacencies": [
+{
+"nodeTo" : "<http://dbpedia.org/resource/Citro%C3%ABn_C1>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.8967130757441316",
+"common" : [
+{
+"plabel" : "assembly",
+"pnode" : "<http://dbpedia.org/property/assembly>",
+"vlabel" : "Kol\u00EDn",
+"vnode" : "http://dbpedia.org/resource/Kol%C3%ADn",
+"n" : "3",
+"dir" : "o"
+}
+,
+{
+"plabel" : "manufacturer",
+"pnode" : "<http://dbpedia.org/property/manufacturer>",
+"vlabel" : "Toyota Peugeot Citro\u00EBn Automobile Czech",
+"vnode" : "http://dbpedia.org/resource/Toyota_Peugeot_Citro%C3%ABn_Automobile_Czech",
+"n" : "3",
+"dir" : "o"
+}
+,
+{
+"plabel" : "",
+"pnode" : "<http://dbpedia.org/ontology/wheelbase>",
+"vlabel" : "",
+"vnode" : "2.34",
+"n" : "10",
+"dir" : "o"
+}
+,
+{
+"plabel" : "wheelbase",
+"pnode" : "<http://dbpedia.org/ontology/Automobile/wheelbase>",
+"vlabel" : "",
+"vnode" : "2340.0",
+"n" : "10",
+"dir" : "o"
+}
+,
+{
+"plabel" : "type",
+"pnode" : "<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>",
+"vlabel" : "VehiclesIntroduCEDIn2005",
+"vnode" : "http://dbpedia.org/class/yago/VehiclesIntroduCEDIn2005",
+"n" : "33",
+"dir" : "o"
+}
+,
+{
+"plabel" : "Subject",
+"pnode" : "<http://purl.org/dc/terms/subject>",
+"vlabel" : "Category:Cars of the Czech Republic",
+"vnode" : "http://dbpedia.org/resource/Category:Cars_of_the_Czech_Republic",
+"n" : "39",
+"dir" : "o"
+}
+,
+{
+"plabel" : "assembly",
+"pnode" : "<http://dbpedia.org/ontology/assembly>",
+"vlabel" : "Czech Republic",
+"vnode" : "http://data.nytimes.com/N7998407817830233071",
+"n" : "40",
+"dir" : "o"
+}
+,
+{
+"plabel" : "type",
+"pnode" : "<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>",
+"vlabel" : "CityCars",
+"vnode" : "http://dbpedia.org/class/yago/CityCars",
+"n" : "40",
+"dir" : "o"
+}
+,
+{
+"plabel" : "Subject",
+"pnode" : "<http://purl.org/dc/terms/subject>",
+"vlabel" : "Category:Vehicles introduced in 2005",
+"vnode" : "http://dbpedia.org/resource/Category:Vehicles_introduced_in_2005",
+"n" : "46",
+"dir" : "o"
+}
+,
+{
+"plabel" : "Subject",
+"pnode" : "<http://purl.org/dc/terms/subject>",
+"vlabel" : "Category:City cars",
+"vnode" : "http://dbpedia.org/resource/Category:City_cars",
+"n" : "49",
+"dir" : "o"
+}
+,
+{
+"plabel" : "related",
+"pnode" : "<http://dbpedia.org/property/related>",
+"vlabel" : "Peugeot 107",
+"vnode" : "http://dbpedia.org/resource/Peugeot_107",
+"n" : "2",
+"dir" : "s"
+}
+,
+{
+"plabel" : "related",
+"pnode" : "<http://dbpedia.org/property/related>",
+"vlabel" : "Citro\u00EBn C1 ev'ie",
+"vnode" : "http://dbpedia.org/resource/Citro%C3%ABn_C1_ev%27ie",
+"n" : "3",
+"dir" : "s"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://dbpedia.org/resource/Peugeot_107>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.8967130757441316",
+"common" : [
+{
+"plabel" : "assembly",
+"pnode" : "<http://dbpedia.org/property/assembly>",
+"vlabel" : "Kol\u00EDn",
+"vnode" : "http://dbpedia.org/resource/Kol%C3%ADn",
+"n" : "3",
+"dir" : "o"
+}
+,
+{
+"plabel" : "manufacturer",
+"pnode" : "<http://dbpedia.org/property/manufacturer>",
+"vlabel" : "Toyota Peugeot Citro\u00EBn Automobile Czech",
+"vnode" : "http://dbpedia.org/resource/Toyota_Peugeot_Citro%C3%ABn_Automobile_Czech",
+"n" : "3",
+"dir" : "o"
+}
+,
+{
+"plabel" : "",
+"pnode" : "<http://dbpedia.org/ontology/wheelbase>",
+"vlabel" : "",
+"vnode" : "2.34",
+"n" : "10",
+"dir" : "o"
+}
+,
+{
+"plabel" : "wheelbase",
+"pnode" : "<http://dbpedia.org/ontology/Automobile/wheelbase>",
+"vlabel" : "",
+"vnode" : "2340.0",
+"n" : "10",
+"dir" : "o"
+}
+,
+{
+"plabel" : "type",
+"pnode" : "<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>",
+"vlabel" : "VehiclesIntroduCEDIn2005",
+"vnode" : "http://dbpedia.org/class/yago/VehiclesIntroduCEDIn2005",
+"n" : "33",
+"dir" : "o"
+}
+,
+{
+"plabel" : "Subject",
+"pnode" : "<http://purl.org/dc/terms/subject>",
+"vlabel" : "Category:Cars of the Czech Republic",
+"vnode" : "http://dbpedia.org/resource/Category:Cars_of_the_Czech_Republic",
+"n" : "39",
+"dir" : "o"
+}
+,
+{
+"plabel" : "assembly",
+"pnode" : "<http://dbpedia.org/ontology/assembly>",
+"vlabel" : "Czech Republic",
+"vnode" : "http://data.nytimes.com/N7998407817830233071",
+"n" : "40",
+"dir" : "o"
+}
+,
+{
+"plabel" : "type",
+"pnode" : "<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>",
+"vlabel" : "CityCars",
+"vnode" : "http://dbpedia.org/class/yago/CityCars",
+"n" : "40",
+"dir" : "o"
+}
+,
+{
+"plabel" : "Subject",
+"pnode" : "<http://purl.org/dc/terms/subject>",
+"vlabel" : "Category:Vehicles introduced in 2005",
+"vnode" : "http://dbpedia.org/resource/Category:Vehicles_introduced_in_2005",
+"n" : "46",
+"dir" : "o"
+}
+,
+{
+"plabel" : "Subject",
+"pnode" : "<http://purl.org/dc/terms/subject>",
+"vlabel" : "Category:City cars",
+"vnode" : "http://dbpedia.org/resource/Category:City_cars",
+"n" : "49",
+"dir" : "o"
+}
+,
+{
+"plabel" : "related",
+"pnode" : "<http://dbpedia.org/property/related>",
+"vlabel" : "Citro\u00EBn C1",
+"vnode" : "http://dbpedia.org/resource/Citro%C3%ABn_C1",
+"n" : "2",
+"dir" : "s"
+}
+,
+{
+"plabel" : "related",
+"pnode" : "<http://dbpedia.org/property/related>",
+"vlabel" : "Citro\u00EBn C1 ev'ie",
+"vnode" : "http://dbpedia.org/resource/Citro%C3%ABn_C1_ev%27ie",
+"n" : "3",
+"dir" : "s"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://dbpedia.org/resource/Geely_MR>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.595",
+"common" : [
+{
+"plabel" : "",
+"pnode" : "<http://dbpedia.org/ontology/wheelbase>",
+"vlabel" : "",
+"vnode" : "2.34",
+"n" : "10",
+"dir" : "o"
+}
+,
+{
+"plabel" : "wheelbase",
+"pnode" : "<http://dbpedia.org/ontology/Automobile/wheelbase>",
+"vlabel" : "",
+"vnode" : "2340.0",
+"n" : "10",
+"dir" : "o"
+}
+,
+{
+"plabel" : "automobilePlatform",
+"pnode" : "<http://dbpedia.org/ontology/automobilePlatform>",
+"vlabel" : "Tobe M'car",
+"vnode" : "http://dbpedia.org/resource/Tobe_M%27car",
+"n" : "2",
+"dir" : "s"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://dbpedia.org/resource/BYD_F0>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.5648316326530612",
+"common" : [
+{
+"plabel" : "height (\u03BC)",
+"pnode" : "<http://dbpedia.org/ontology/height>",
+"vlabel" : "",
+"vnode" : "1.465",
+"n" : "4",
+"dir" : "o"
+}
+,
+{
+"plabel" : "height",
+"pnode" : "<http://dbpedia.org/ontology/MeanOfTransportation/height>",
+"vlabel" : "",
+"vnode" : "1465.0",
+"n" : "4",
+"dir" : "o"
+}
+,
+{
+"plabel" : "",
+"pnode" : "<http://dbpedia.org/ontology/wheelbase>",
+"vlabel" : "",
+"vnode" : "2.34",
+"n" : "10",
+"dir" : "o"
+}
+,
+{
+"plabel" : "wheelbase",
+"pnode" : "<http://dbpedia.org/ontology/Automobile/wheelbase>",
+"vlabel" : "",
+"vnode" : "2340.0",
+"n" : "10",
+"dir" : "o"
+}
+,
+{
+"plabel" : "type",
+"pnode" : "<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>",
+"vlabel" : "CityCars",
+"vnode" : "http://dbpedia.org/class/yago/CityCars",
+"n" : "40",
+"dir" : "o"
+}
+,
+{
+"plabel" : "Subject",
+"pnode" : "<http://purl.org/dc/terms/subject>",
+"vlabel" : "Category:City cars",
+"vnode" : "http://dbpedia.org/resource/Category:City_cars",
+"n" : "49",
+"dir" : "o"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://dbpedia.org/resource/Citro%C3%ABn_C1_ev%27ie>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.5555555555555556",
+"common" : [
+{
+"plabel" : "related",
+"pnode" : "<http://dbpedia.org/property/related>",
+"vlabel" : "Citro\u00EBn C1",
+"vnode" : "http://dbpedia.org/resource/Citro%C3%ABn_C1",
+"n" : "3",
+"dir" : "o"
+}
+,
+{
+"plabel" : "related",
+"pnode" : "<http://dbpedia.org/property/related>",
+"vlabel" : "Peugeot 107",
+"vnode" : "http://dbpedia.org/resource/Peugeot_107",
+"n" : "3",
+"dir" : "o"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://dbpedia.org/resource/Citro\\u00EBn_C1>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.5",
+"common" : [
+{
+"plabel" : "automotive.model.related models",
+"pnode" : "<http://rdf.freebase.com/ns/automotive.model.related_models>",
+"vlabel" : "m.0h59t4h",
+"vnode" : "http://rdf.freebase.com/ns/m.0h59t4h",
+"n" : "2",
+"dir" : "o"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://dbpedia.org/resource/Kol%C3%ADn>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.5",
+"common" : [
+{
+"plabel" : "wikiPageExternalLink",
+"pnode" : "<http://dbpedia.org/ontology/wikiPageExternalLink>",
+"vlabel" : "index.php",
+"vnode" : "http://www.tpca-cz.com/en/index.php",
+"n" : "2",
+"dir" : "o"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://dbpedia.org/resource/BYD_F6DM>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.4375",
+"common" : [
+{
+"plabel" : "height (\u03BC)",
+"pnode" : "<http://dbpedia.org/ontology/height>",
+"vlabel" : "",
+"vnode" : "1.465",
+"n" : "4",
+"dir" : "o"
+}
+,
+{
+"plabel" : "height",
+"pnode" : "<http://dbpedia.org/ontology/MeanOfTransportation/height>",
+"vlabel" : "",
+"vnode" : "1465.0",
+"n" : "4",
+"dir" : "o"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://dbpedia.org/resource/Shanghai-Volkswagen_Lavida>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.4375",
+"common" : [
+{
+"plabel" : "height (\u03BC)",
+"pnode" : "<http://dbpedia.org/ontology/height>",
+"vlabel" : "",
+"vnode" : "1.465",
+"n" : "4",
+"dir" : "o"
+}
+,
+{
+"plabel" : "height",
+"pnode" : "<http://dbpedia.org/ontology/MeanOfTransportation/height>",
+"vlabel" : "",
+"vnode" : "1465.0",
+"n" : "4",
+"dir" : "o"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://dbpedia.org/resource/Alfa_33>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.36000000000000004",
+"common" : [
+{
+"plabel" : "width (\u03BC)",
+"pnode" : "<http://dbpedia.org/ontology/width>",
+"vlabel" : "",
+"vnode" : "1.615",
+"n" : "5",
+"dir" : "o"
+}
+,
+{
+"plabel" : "width",
+"pnode" : "<http://dbpedia.org/ontology/MeanOfTransportation/width>",
+"vlabel" : "",
+"vnode" : "1615.0",
+"n" : "5",
+"dir" : "o"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://dbpedia.org/resource/Lancia_Epsilon>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.36000000000000004",
+"common" : [
+{
+"plabel" : "width (\u03BC)",
+"pnode" : "<http://dbpedia.org/ontology/width>",
+"vlabel" : "",
+"vnode" : "1.615",
+"n" : "5",
+"dir" : "o"
+}
+,
+{
+"plabel" : "width",
+"pnode" : "<http://dbpedia.org/ontology/MeanOfTransportation/width>",
+"vlabel" : "",
+"vnode" : "1615.0",
+"n" : "5",
+"dir" : "o"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://dbpedia.org/resource/Lancia_Theta-35HP>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.36000000000000004",
+"common" : [
+{
+"plabel" : "width (\u03BC)",
+"pnode" : "<http://dbpedia.org/ontology/width>",
+"vlabel" : "",
+"vnode" : "1.615",
+"n" : "5",
+"dir" : "o"
+}
+,
+{
+"plabel" : "width",
+"pnode" : "<http://dbpedia.org/ontology/MeanOfTransportation/width>",
+"vlabel" : "",
+"vnode" : "1615.0",
+"n" : "5",
+"dir" : "o"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://dbpedia.org/resource/Wanderer_W24>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.36000000000000004",
+"common" : [
+{
+"plabel" : "width (\u03BC)",
+"pnode" : "<http://dbpedia.org/ontology/width>",
+"vlabel" : "",
+"vnode" : "1.615",
+"n" : "5",
+"dir" : "o"
+}
+,
+{
+"plabel" : "width",
+"pnode" : "<http://dbpedia.org/ontology/MeanOfTransportation/width>",
+"vlabel" : "",
+"vnode" : "1615.0",
+"n" : "5",
+"dir" : "o"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://dbpedia.org/resource/Daihatsu_Tanto>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.3142857142857143",
+"common" : [
+{
+"plabel" : "weight (g)",
+"pnode" : "<http://dbpedia.org/ontology/weight>",
+"vlabel" : "",
+"vnode" : "890000",
+"n" : "5",
+"dir" : "o"
+}
+,
+{
+"plabel" : "weight",
+"pnode" : "<http://dbpedia.org/ontology/MeanOfTransportation/weight>",
+"vlabel" : "",
+"vnode" : "890.0",
+"n" : "7",
+"dir" : "o"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://dbpedia.org/resource/Honda_Logo>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.3142857142857143",
+"common" : [
+{
+"plabel" : "weight (g)",
+"pnode" : "<http://dbpedia.org/ontology/weight>",
+"vlabel" : "",
+"vnode" : "890000",
+"n" : "5",
+"dir" : "o"
+}
+,
+{
+"plabel" : "weight",
+"pnode" : "<http://dbpedia.org/ontology/MeanOfTransportation/weight>",
+"vlabel" : "",
+"vnode" : "890.0",
+"n" : "7",
+"dir" : "o"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://dbpedia.org/resource/Jimenez_Novia>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.3142857142857143",
+"common" : [
+{
+"plabel" : "weight (g)",
+"pnode" : "<http://dbpedia.org/ontology/weight>",
+"vlabel" : "",
+"vnode" : "890000",
+"n" : "5",
+"dir" : "o"
+}
+,
+{
+"plabel" : "weight",
+"pnode" : "<http://dbpedia.org/ontology/MeanOfTransportation/weight>",
+"vlabel" : "",
+"vnode" : "890.0",
+"n" : "7",
+"dir" : "o"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://dbpedia.org/resource/Peugeot_202>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.3142857142857143",
+"common" : [
+{
+"plabel" : "weight (g)",
+"pnode" : "<http://dbpedia.org/ontology/weight>",
+"vlabel" : "",
+"vnode" : "890000",
+"n" : "5",
+"dir" : "o"
+}
+,
+{
+"plabel" : "weight",
+"pnode" : "<http://dbpedia.org/ontology/MeanOfTransportation/weight>",
+"vlabel" : "",
+"vnode" : "890.0",
+"n" : "7",
+"dir" : "o"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://dbpedia.org/resource/Chery_QQ>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.2263673469387755",
+"common" : [
+{
+"plabel" : "",
+"pnode" : "<http://dbpedia.org/ontology/wheelbase>",
+"vlabel" : "",
+"vnode" : "2.34",
+"n" : "10",
+"dir" : "o"
+}
+,
+{
+"plabel" : "wheelbase",
+"pnode" : "<http://dbpedia.org/ontology/Automobile/wheelbase>",
+"vlabel" : "",
+"vnode" : "2340.0",
+"n" : "10",
+"dir" : "o"
+}
+,
+{
+"plabel" : "type",
+"pnode" : "<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>",
+"vlabel" : "CityCars",
+"vnode" : "http://dbpedia.org/class/yago/CityCars",
+"n" : "40",
+"dir" : "o"
+}
+,
+{
+"plabel" : "Subject",
+"pnode" : "<http://purl.org/dc/terms/subject>",
+"vlabel" : "Category:City cars",
+"vnode" : "http://dbpedia.org/resource/Category:City_cars",
+"n" : "49",
+"dir" : "o"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://dbpedia.org/resource/Mitsubishi_Pistachio>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.19",
+"common" : [
+{
+"plabel" : "",
+"pnode" : "<http://dbpedia.org/ontology/wheelbase>",
+"vlabel" : "",
+"vnode" : "2.34",
+"n" : "10",
+"dir" : "o"
+}
+,
+{
+"plabel" : "wheelbase",
+"pnode" : "<http://dbpedia.org/ontology/Automobile/wheelbase>",
+"vlabel" : "",
+"vnode" : "2340.0",
+"n" : "10",
+"dir" : "o"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://dbpedia.org/resource/Mitsubishi_eK>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.19",
+"common" : [
+{
+"plabel" : "",
+"pnode" : "<http://dbpedia.org/ontology/wheelbase>",
+"vlabel" : "",
+"vnode" : "2.34",
+"n" : "10",
+"dir" : "o"
+}
+,
+{
+"plabel" : "wheelbase",
+"pnode" : "<http://dbpedia.org/ontology/Automobile/wheelbase>",
+"vlabel" : "",
+"vnode" : "2340.0",
+"n" : "10",
+"dir" : "o"
+}
+]
+}
+}
+]
+}
+,
+{
+"id" : "<http://dbpedia.org/resource/Citro%C3%ABn_C1>",
+"name" : "Citro\u00EBn C1",
+"data" : {
+"asciiname" : "\"Citro\\u00EBn C1\"@en",
+"$color" : "#22FF22",
+"$type" : "circle",
+"comment" : "The Citro\u00EBn C1 is a city car produced by the French manufacturer Citro\u00EBn since 2005. The C1 was developed as part of the B-Zero project by PSA Peugeot Citro\u00EBn in a joint-venture with Toyota. The Peugeot 107 is identical to the C1 other than the front bumper and front and rear lights, while the Toyota ...",
+"$dim" : "18",
+"image" : [ 
+"http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Citroen_C1_front_20080417.jpg/200px-Citroen_C1_front_20080417.jpg" ,
+"http://upload.wikimedia.org/wikipedia/commons/3/3f/Citroen_C1_front_20080417.jpg"
+] ,
+"alias" : [ 
+"<http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Citro%C3%ABn_C1>" ,
+"<http://dbpedia.org/resource/Citro%C3%ABn_C1>" ,
+"<http://rdf.freebase.com/ns/m/04mm56>" ,
+"<http://mpii.de/yago/resource/Citro%C3%ABn_C1>"
+] ,
+"kwscore" : "0.09372570365667343",
+"prank" : "8.299427463498432E-6"
+}
+}
+,
+{
+"id" : "<http://dbpedia.org/resource/Peugeot_107>",
+"name" : "Peugeot 107",
+"data" : {
+"asciiname" : "\"Peugeot 107\"@en",
+"$color" : "#22FF22",
+"$type" : "circle",
+"comment" : "The Peugeot 107 is a city car produced by French automaker Peugeot since mid 2005. The 107 was developed by the B-Zero project of PSA Peugeot Citro\u00EBn in a joint-venture with Toyota; the Citro\u00EBn C1 and Toyota Aygo are badge engineered versions of the same car, although the Aygo has more detail differences ...",
+"$dim" : "18",
+"image" : [ 
+"http://upload.wikimedia.org/wikipedia/commons/5/5b/Peugeot_107_front_20071203.jpg" ,
+"http://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Peugeot_107_front_20071203.jpg/200px-Peugeot_107_front_20071203.jpg"
+] ,
+"alias" : [ 
+"<http://rdf.freebase.com/ns/m/04mbd2>" ,
+"<http://mpii.de/yago/resource/Peugeot_107>" ,
+"<http://dbpedia.org/resource/Peugeot_107>" ,
+"<http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Peugeot_107>"
+] ,
+"kwscore" : "0.09372570365667343",
+"prank" : "8.710938345757313E-6"
+}
+}
+,
+{
+"id" : "<http://dbpedia.org/resource/Geely_MR>",
+"name" : "Geely MR",
+"data" : {
+"asciiname" : "\"Geely MR\"@en",
+"$color" : "#77FF77",
+"$type" : "circle",
+"comment" : "The Geely MR is a subcompact car produced by Chinese automaker Geely Automobile since May 2000. The MR is produced in five-door hatchback (Merrie / \u7F8E\u65E5) and four-door sedan (Uliou / \u4F18\u5229\u6B27) body styles. The MR is based on the Daihatsu Charade platform, which Geely licensed from Xiali. Its base underpinnings ...",
+"$dim" : "12",
+"image" : [ 
+"http://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Geely_MR6370_Merrie.jpg/200px-Geely_MR6370_Merrie.jpg" ,
+"http://upload.wikimedia.org/wikipedia/commons/f/fe/Geely_MR6370_Merrie.jpg"
+] ,
+"alias" : [ 
+"<http://dbpedia.org/resource/Geely_MR>" ,
+"<http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Geely_MR>" ,
+"<http://rdf.freebase.com/ns/m.09vjbr>" ,
+"<http://rdf.freebase.com/ns/m/09vjbr>" ,
+"<http://mpii.de/yago/resource/Geely_MR>" ,
+"<http://dbpedia.org/resource/Geely_Merrie>"
+] ,
+"kwscore" : "0.009372570551931858",
+"prank" : "6.344432108562614E-7"
+}
+}
+,
+{
+"id" : "<http://dbpedia.org/resource/BYD_F0>",
+"name" : "BYD F0",
+"data" : {
+"asciiname" : "\"BYD F0\"@en",
+"$color" : "#77FF77",
+"$type" : "circle",
+"comment" : "The BYD F0, formerly known as BYD F1, is an unlicensed copy of the small Supermini Toyota Aygo, copied by Chinese automaker BYD Auto, according to European Courts. It is marketed as \"Just Cool\". The car, priced at about $6,700 USD, reportedly gets 56 mpg (4.2 L/100 km; 67 mpg). The car benefited from ...",
+"$dim" : "12",
+"image" : [ 
+"http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/BYD_08.JPG/200px-BYD_08.JPG" ,
+"http://upload.wikimedia.org/wikipedia/commons/b/b6/BYD_08.JPG"
+] ,
+"alias" : [ 
+"<http://dbpedia.org/resource/BYD_F0>" ,
+"<http://mpii.de/yago/resource/BYD_F0>" ,
+"<http://rdf.freebase.com/ns/m/05zybkf>" ,
+"<http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/BYD_F0>"
+] ,
+"kwscore" : "0.0058578564785420895",
+"prank" : "5.377081038204778E-7"
+}
+}
+,
+{
+"id" : "<http://dbpedia.org/resource/Citro%C3%ABn_C1_ev%27ie>",
+"data" : {
+"$color" : "#77FF77",
+"$type" : "circle",
+"$dim" : "12",
+"alias" : [ 
+"<http://dbpedia.org/resource/Citro%C3%ABn_C1_ev%27ie>"
+] ,
+"kwscore" : "3.432337962294696E-6",
+"prank" : "1.828949223181553E-7"
+}
+}
+,
+{
+"id" : "<http://dbpedia.org/resource/Citro\\u00EBn_C1>",
+"name" : "Citro\u00EBn C1",
+"data" : {
+"asciiname" : "\"Citro\\u00EBn C1\"@en",
+"$color" : "#88FF88",
+"$type" : "circle",
+"$dim" : "10",
+"alias" : [ 
+"<http://rdf.freebase.com/ns/m.04mm56>" ,
+"<http://dbpedia.org/resource/Citro\\u00EBn_C1>" ,
+"<http://dbpedia.org/resource/Citroen_C1>"
+] ,
+"kwscore" : "1.830580185924191E-5",
+"prank" : "3.6524372859503274E-8"
+}
+}
+,
+{
+"id" : "<http://dbpedia.org/resource/Kol%C3%ADn>",
+"name" : "Kol\u00EDn",
+"data" : {
+"asciiname" : "\"Kol\\u00EDn\"@en",
+"$color" : "#88FF88",
+"$type" : "circle",
+"comment" : "Kol\u00EDn is a town in the Central Bohemian Region of the Czech Republic some 55 kilometres (34 miles) east from Prague, lying on the Elbe river.",
+"$dim" : "10",
+"image" : [ 
+"http://upload.wikimedia.org/wikipedia/commons/8/8d/Kolin_CZ_town_hall.JPG" ,
+"http://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kolin_CZ_town_hall.JPG/200px-Kolin_CZ_town_hall.JPG"
+] ,
+"alias" : [ 
+"<http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Kol%C3%ADn>" ,
+"<http://linkedgeodata.org/triplify/node/86959870#id>" ,
+"<http://rdf.freebase.com/ns/m/043bqk>" ,
+"<http://sws.geonames.org/3073371/>" ,
+"<http://dbpedia.org/resource/Kol%C3%ADn>" ,
+"<http://mpii.de/yago/resource/Kol%C3%ADn>"
+] ,
+"kwscore" : "0.14996112883090973",
+"prank" : "9.807796232053079E-6"
+}
+}
+,
+{
+"id" : "<http://dbpedia.org/resource/BYD_F6DM>",
+"name" : "BYD F6DM",
+"data" : {
+"asciiname" : "\"BYD F6DM\"@en",
+"$color" : "#88FF88",
+"$type" : "circle",
+"comment" : "The BYD F6DM is a planned plug-in hybrid mid-size sedan. A planned fully electric version was called F6e. The manufacturer, Chinese automaker BYD Auto, is owned by BYD Company Limited, China's largest mobile phone battery maker. The car is most likely never going to be built, with BYD currently focusing ...",
+"$dim" : "10",
+"image" : [ 
+"http://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/BYD_F6DM.jpg/200px-BYD_F6DM.jpg" ,
+"http://upload.wikimedia.org/wikipedia/commons/e/e9/BYD_F6DM.jpg"
+] ,
+"alias" : [ 
+"<http://rdf.freebase.com/ns/m/03hn9cx>" ,
+"<http://mpii.de/yago/resource/BYD_F6DM>" ,
+"<http://dbpedia.org/resource/BYD_F6DM>" ,
+"<http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/BYD_F6DM>"
+] ,
+"kwscore" : "0.009372570551931858",
+"prank" : "8.495824772580818E-7"
+}
+}
+,
+{
+"id" : "<http://dbpedia.org/resource/Shanghai-Volkswagen_Lavida>",
+"name" : "Shanghai-Volkswagen Lavida",
+"data" : {
+"asciiname" : "\"Shanghai-Volkswagen Lavida\"@en",
+"$color" : "#88FF88",
+"$type" : "circle",
+"comment" : "The Volkswagen Lavida is a compact car released by Shanghai Volkswagen Automotive (CSVW) for the Chinese market. Debuted by CSVW at Auto China 2008 in Beijing, the Lavida acquired many body design themes from Volkswagen Neeza Concept Vehicle (\u5927\u4F17-\u54EA\u5412\u6982\u5FF5\u8F66), which was also realsed at Auto China one year before ...",
+"$dim" : "10",
+"image" : [ 
+"http://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Volkswagen_lavida_pg0_front_2009.JPG/200px-Volkswagen_lavida_pg0_front_2009.JPG" ,
+"http://upload.wikimedia.org/wikipedia/commons/e/ea/Volkswagen_lavida_pg0_front_2009.JPG"
+] ,
+"alias" : [ 
+"<http://mpii.de/yago/resource/Shanghai-Volkswagen_Lavida>" ,
+"<http://rdf.freebase.com/ns/m/03qn518>" ,
+"<http://dbpedia.org/resource/Shanghai-Volkswagen_Lavida>" ,
+"<http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Shanghai-Volkswagen_Lavida>"
+] ,
+"kwscore" : "0.023431425914168358",
+"prank" : "2.239550212834729E-6"
+}
+}
+,
+{
+"id" : "<http://dbpedia.org/resource/Alfa_33>",
+"name" : "Alfa Romeo 33",
+"data" : {
+"asciiname" : "\"Alfa Romeo 33\"@en",
+"$color" : "#99FF99",
+"$type" : "circle",
+"comment" : "The Alfa Romeo 33 is a small family car produced by the Italian automaker Alfa Romeo between 1983 and 1995. It was essentially an evolution of its predecessor, the Alfasud, which was based on the same floorplan, chassis and mechanicals albeit with some minor modifications. The Nissan based Alfa Romeo ...",
+"$dim" : "8",
+"image" : [ 
+"http://upload.wikimedia.org/wikipedia/commons/a/af/Alfa_Romeo_33_1.3_VL_1991.jpg" ,
+"http://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Alfa_Romeo_33_1.3_VL_1991.jpg/200px-Alfa_Romeo_33_1.3_VL_1991.jpg"
+] ,
+"alias" : [ 
+"<http://rdf.freebase.com/ns/m/03tsyb>" ,
+"<http://dbpedia.org/resource/Alfa_Romeo_33_Series>" ,
+"<http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Alfa_Romeo_33_Series>" ,
+"<http://dbpedia.org/resource/Alfa_Romeo_33_(road_car)>" ,
+"<http://rdf.freebase.com/ns/m.03tsyb>" ,
+"<http://dbpedia.org/resource/Alfa_33>" ,
+"<http://mpii.de/yago/resource/Alfa_Romeo_33_Series>" ,
+"<http://dbpedia.org/resource/Alfa_Romeo_33>" ,
+"<http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Alfa_Romeo_33>"
+] ,
+"kwscore" : "0.03280399739742279",
+"prank" : "2.3180487005447503E-6"
+}
+}
+,
+{
+"id" : "<http://dbpedia.org/resource/Lancia_Epsilon>",
+"name" : "Lancia Epsilon",
+"data" : {
+"asciiname" : "\"Lancia Epsilon\"@en",
+"$color" : "#99FF99",
+"$type" : "circle",
+"comment" : "The Lancia Epsilon (tipo 58) was produced more than 350 examples between 1911-1912 by Lancia. The car was quite similar to the Delta model.",
+"$dim" : "8",
+"image" : [ 
+"http://upload.wikimedia.org/wikipedia/commons/c/c5/Lancia_Torpedo_Type_Epsilon_1912_Mulhouse_FRA_001.JPG" ,
+"http://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Lancia_Torpedo_Type_Epsilon_1912_Mulhouse_FRA_001.JPG/200px-Lancia_Torpedo_Type_Epsilon_1912_Mulhouse_FRA_001.JPG"
+] ,
+"alias" : [ 
+"<http://mpii.de/yago/resource/Lancia_Epsilon>" ,
+"<http://rdf.freebase.com/ns/m.03d6_mg>" ,
+"<http://dbpedia.org/resource/Lancia_Epsilon>" ,
+"<http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Lancia_Epsilon>" ,
+"<http://rdf.freebase.com/ns/m/03d6_mg>"
+] ,
+"kwscore" : "0.016401998698711395",
+"prank" : "1.3700897625312791E-6"
+}
+}
+,
+{
+"id" : "<http://dbpedia.org/resource/Lancia_Theta-35HP>",
+"name" : "Lancia Theta-35HP",
+"data" : {
+"asciiname" : "\"Lancia Theta-35HP\"@en",
+"$color" : "#99FF99",
+"$type" : "circle",
+"comment" : "The Lancia Theta (25/35 HP, type 61) is a car which was produced between 1913-1918 by Lancia. The car was bigger version of Epsilon model. The car had electrical lights and start motor.",
+"$dim" : "8",
+"image" : [ 
+"http://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Lancia_Theta_Torpedo_1917.jpg/200px-Lancia_Theta_Torpedo_1917.jpg" ,
+"http://upload.wikimedia.org/wikipedia/commons/8/8c/Lancia_Theta_Torpedo_1917.jpg"
+] ,
+"alias" : [ 
+"<http://mpii.de/yago/resource/Lancia_Theta-35HP>" ,
+"<http://dbpedia.org/resource/Lancia_Theta-35HP>" ,
+"<http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Lancia_Theta-35HP>" ,
+"<http://rdf.freebase.com/ns/m/03gxb7h>"
+] ,
+"kwscore" : "0.016401998698711395",
+"prank" : "1.378854904032778E-6"
+}
+}
+,
+{
+"id" : "<http://dbpedia.org/resource/Wanderer_W24>",
+"name" : "Wanderer W24",
+"data" : {
+"asciiname" : "\"Wanderer W24\"@en",
+"$color" : "#99FF99",
+"$type" : "circle",
+"comment" : "The Wanderer W24 was a middle market car introduced by Wanderer in 1937. The car was powered by a four cylinder four-stroke engine of 1767 cc driving the rear wheels via a four-speed gear box. Claimed maximum power output was 42 PS (31 kW; 41 hp) achieved at 3,400 rpm. The W24\u2019s structural basis was ...",
+"$dim" : "8",
+"image" : [ 
+"http://upload.wikimedia.org/wikipedia/commons/b/bb/Wanderer_W24_1939.jpg" ,
+"http://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Wanderer_W24_1939.jpg/200px-Wanderer_W24_1939.jpg"
+] ,
+"alias" : [ 
+"<http://rdf.freebase.com/ns/m.09gh69l>" ,
+"<http://mpii.de/yago/resource/Wanderer_W24>" ,
+"<http://rdf.freebase.com/ns/m/09gh69l>" ,
+"<http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Wanderer_W24>" ,
+"<http://dbpedia.org/resource/Wanderer_W24>"
+] ,
+"kwscore" : "0.0023431426379829645",
+"prank" : "2.0763012287261517E-7"
+}
+}
+,
+{
+"id" : "<http://dbpedia.org/resource/Daihatsu_Tanto>",
+"name" : "Daihatsu Tanto",
+"data" : {
+"asciiname" : "\"Daihatsu Tanto\"@en",
+"$color" : "#99FF99",
+"$type" : "circle",
+"comment" : "O Tanto \u00E9 um carro fabricado pela Daihatsu. Foi lan\u00E7ado no mercado em 2003,e foi feito exclusivamente para o mercado japon\u00EAs.",
+"$dim" : "8",
+"image" : [ 
+"http://upload.wikimedia.org/wikipedia/commons/9/9c/Daihatsu_Tanto_01.jpg" ,
+"http://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Daihatsu_Tanto_01.jpg/200px-Daihatsu_Tanto_01.jpg"
+] ,
+"alias" : [ 
+"<http://mpii.de/yago/resource/Daihatsu_Tanto>" ,
+"<http://dbpedia.org/resource/Daihatsu_Tanto>" ,
+"<http://rdf.freebase.com/ns/m.02r6j5j>" ,
+"<http://rdf.freebase.com/ns/m/02r6j5j>" ,
+"<http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Daihatsu_Tanto>"
+] ,
+"kwscore" : "0.009372570551931858",
+"prank" : "9.179934181702265E-7"
+}
+}
+,
+{
+"id" : "<http://dbpedia.org/resource/Honda_Logo>",
+"name" : "Honda Logo",
+"data" : {
+"asciiname" : "\"Honda Logo\"@en",
+"$color" : "#99FF99",
+"$type" : "circle",
+"comment" : "The Honda Logo series GA3 and GA5 is a supermini produced by the Japanese automaker Honda between 1996 and 2001. The Logo was available as a three-door and five-door hatchback. It was sold in the United Kingdom from 2000 until 2001. It was a platform mate to the Honda Capa and replaced the Honda City. ...",
+"$dim" : "8",
+"image" : [ 
+"http://upload.wikimedia.org/wikipedia/commons/5/57/1996_Honda_Logo_01.jpg" ,
+"http://upload.wikimedia.org/wikipedia/commons/thumb/5/57/1996_Honda_Logo_01.jpg/200px-1996_Honda_Logo_01.jpg"
+] ,
+"alias" : [ 
+"<http://rdf.freebase.com/ns/m/06j5ck>" ,
+"<http://dbpedia.org/resource/Honda_Logo>" ,
+"<http://mpii.de/yago/resource/Honda_Logo>" ,
+"<http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Honda_Logo>"
+] ,
+"kwscore" : "0.023431425914168358",
+"prank" : "1.9454985249467427E-6"
+}
+}
+,
+{
+"id" : "<http://dbpedia.org/resource/Jimenez_Novia>",
+"name" : "Jimenez Novia",
+"data" : {
+"asciiname" : "\"Jimenez Novia\"@en",
+"$color" : "#99FF99",
+"$type" : "circle",
+"comment" : "The Novia W16 was a supercar built only in a single model in 1995 by Jimenez, a French maker, with a central engine and rear wheel transmission. Its W16 engine is made of 4 Yamaha 1100 engines.",
+"$dim" : "8",
+"alias" : [ 
+"<http://rdf.freebase.com/ns/m/03h4shy>" ,
+"<http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Jimenez_Novia>" ,
+"<http://mpii.de/yago/resource/Jimenez_Novia>" ,
+"<http://dbpedia.org/resource/Jimenez_Novia>"
+] ,
+"kwscore" : "0.0014644641196355224",
+"prank" : "4.83672238260624E-7"
+}
+}
+,
+{
+"id" : "<http://dbpedia.org/resource/Peugeot_202>",
+"name" : "Peugeot 202",
+"data" : {
+"asciiname" : "\"Peugeot 202\"@en",
+"$color" : "#99FF99",
+"$type" : "circle",
+"comment" : "The Peugeot 202 was an automobile from Peugeot. Production of the car ran between 1938 and 1942 and then, after a brief production run of 20 in early 1945, restarted in mid-1946. It was sold until 1949, by when it had been replaced by the 203. It was powered by a 1133 cc water-cooled engine giving 30 ...",
+"$dim" : "8",
+"image" : [ 
+"http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Peugeot_202_BW_1.JPG/200px-Peugeot_202_BW_1.JPG" ,
+"http://upload.wikimedia.org/wikipedia/commons/5/5c/Peugeot_202_BW_1.JPG"
+] ,
+"alias" : [ 
+"<http://rdf.freebase.com/ns/m/025vq0g>" ,
+"<http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Peugeot_202>" ,
+"<http://dbpedia.org/resource/Peugeot_202>" ,
+"<http://mpii.de/yago/resource/Peugeot_202>" ,
+"<http://rdf.freebase.com/ns/m.025vq0g>"
+] ,
+"kwscore" : "0.018745141103863716",
+"prank" : "1.8566919379736646E-6"
+}
+}
+,
+{
+"id" : "<http://dbpedia.org/resource/Chery_QQ>",
+"name" : "Chery QQ",
+"data" : {
+"asciiname" : "\"Chery QQ\"@en",
+"$color" : "#AAFFAA",
+"$type" : "circle",
+"comment" : "The Chery QQ (codename S11) is a city car produced by the Chinese manufacturer Chery Automobile since 2003. In 2006, the car was renamed the Chery QQ3 in China, when Chery launched their new supermini, the Chery QQ6.",
+"$dim" : "6",
+"image" : [ 
+"http://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Chery_QQ_Ph.JPG/200px-Chery_QQ_Ph.JPG" ,
+"http://upload.wikimedia.org/wikipedia/commons/2/2d/Chery_QQ_Ph.JPG"
+] ,
+"alias" : [ 
+"<http://dbpedia.org/resource/Chery_QQ>" ,
+"<http://rdf.freebase.com/ns/m/0cpmh9>" ,
+"<http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Chery_QQ>" ,
+"<http://mpii.de/yago/resource/Chery_QQ>"
+] ,
+"kwscore" : "0.18745140731334686",
+"prank" : "1.5356637959484942E-5"
+}
+}
+,
+{
+"id" : "<http://dbpedia.org/resource/Mitsubishi_Pistachio>",
+"name" : "Mitsubishi Pistachio",
+"data" : {
+"asciiname" : "\"Mitsubishi Pistachio\"@en",
+"$color" : "#BBFFBB",
+"$type" : "circle",
+"comment" : "\u30D4\u30B9\u30BF\u30C1\u30AA\u306F\u3001\u4E09\u83F1\u81EA\u52D5\u8ECA\u5DE5\u696D\u304C\u88FD\u9020\u30FB\u8CA9\u58F2\u3057\u3066\u3044\u305F\u4E57\u7528\u8ECA\u3067\u3042\u308B\u3002",
+"$dim" : "4",
+"image" : [ 
+"http://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Mitsubishi_pistachio.gif/200px-Mitsubishi_pistachio.gif" ,
+"http://upload.wikimedia.org/wikipedia/commons/5/5f/Mitsubishi_pistachio.gif"
+] ,
+"alias" : [ 
+"<http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Mitsubishi_Pistachio>" ,
+"<http://rdf.freebase.com/ns/m/0gql8q>" ,
+"<http://rdf.freebase.com/ns/m.0gql8q>" ,
+"<http://dbpedia.org/resource/Mitsubishi_Pistachio>"
+] ,
+"kwscore" : "0.004686285275965929",
+"prank" : "5.909230367251439E-7"
+}
+}
+,
+{
+"id" : "<http://dbpedia.org/resource/Mitsubishi_eK>",
+"name" : "Mitsubishi eK",
+"data" : {
+"asciiname" : "\"Mitsubishi eK\"@en",
+"$color" : "#BBFFBB",
+"$type" : "circle",
+"comment" : "The Mitsubishi eK is a Japanese kei car from Mitsubishi Motors, based on the long-running Mitsubishi Minica, and first introduced on October 11, 2001 at \u00A5910,000 to \u00A51,108,000. According to the company the name stands for \"excellent Keijid\u014Dsha\", or \"excellent minicar\". In its first generation, it was ...",
+"$dim" : "4",
+"image" : [ 
+"http://upload.wikimedia.org/wikipedia/commons/9/9b/Mitsubishi_ek_%E3%83%BBWagon_-_ja-a.jpg" ,
+"http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Mitsubishi_ek_%E3%83%BBWagon_-_ja-a.jpg/200px-Mitsubishi_ek_%E3%83%BBWagon_-_ja-a.jpg"
+] ,
+"alias" : [ 
+"<http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Mitsubishi_eK>" ,
+"<http://rdf.freebase.com/ns/m/0ftkkv>" ,
+"<http://dbpedia.org/resource/Mitsubishi_eK>"
+] ,
+"kwscore" : "0.014058856293559074",
+"prank" : "1.5505848978136783E-6"
+}
+}
+]
+
