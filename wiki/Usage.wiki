@@ -17,7 +17,7 @@ KW, QUAD_NI, QUAD_SP, CONCUR_NI, CONCUR_SP
 
 == LODPeas-gui ==
 
-In order to build the LODPeas-gui web application you will need to set the aforementioned properties in the config.props file, located at lodpeas-gui/trunk/WebContent/WEB-INF/config.props.  Below is an example:
+In order to build the LODPeas-gui web application you will need to set the aforementioned properties in the config.props file, located at WebContent/WEB-INF/config.props.  Below is an example:
 
 {{{
 KW=/home/patrick/LODPeaScripts/kWIndex/
