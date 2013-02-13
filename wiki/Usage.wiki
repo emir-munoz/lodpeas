@@ -2,18 +2,16 @@
 
 LODPeas requires two inputs in order run i.e. a quad dataset and a redirects file.  For example inputs see data collected form the [http://swse.deri.org/dyldo/ Dynamic Linked Data Observatory project].  Specifically see [http://swse.deri.org/dyldo/data/2012-05-06/data.nq.gz here] for example input file and [http://swse.deri.org/dyldo/data/2012-05-06/redirects.nx.gz here] for example redirects file.
 
-== Conker ==
-
-However, the inputs must be pre-processed using a jar file called [http://code.google.com/p/lodpeas/downloads/list conker].  There is a total of 15 pre-processing operations using the conker jar.  We have created a script called [http://code.google.com/p/lodpeas/downloads/list runConker.sh] for convenience.  The following is an example command for runConker.sh where 2G is the memory to the jvm.
+== LODPeas-build ==
+LODPeas-build uses the latest [http://code.google.com/p/lodpeas/downloads/list jar] to build the required files for LODPeas-gui.  There are fifteen commands in total.  We have created a script called [http://code.google.com/p/lodpeas/downloads/list runConker.sh] for convenience.  The following is an example command for runConker.sh where 2G is the memory to the jvm.
 {{{
 #sh runConker.sh quad_dataset.nq.gz redirects.nq.gz 2G
 }}}
 runConker.sh assumes that both inputs are gzipped.
 
 
-== LODPeas-build ==
+== LODPeas-gui ==
 
-LODPeas-build uses the latest [http://code.google.com/p/lodpeas/downloads/list jar] to build the required files for LODPeas-gui.  There are fifteen commands in total
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
