@@ -8,7 +8,10 @@ The latest jar can be found [http://code.google.com/p/voidstats/downloads/list h
 
 
 
-== Details ==
+== LODPeas-build ==
+
+LODPeas-build uses the latest jar to build the similarity datasets.  The
+The latest jar for lodpeas-build can be found at 
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
