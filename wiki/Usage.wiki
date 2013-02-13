@@ -1,6 +1,6 @@
 = Usage =
 
-LODPeas requires two inputs in order run i.e. a quad dataset and a redirects file.  For example inputs see data collected form the [http://swse.deri.org/dyldo/data/ Dynamic Linked Data Observatory project].  Specifically see [http://swse.deri.org/dyldo/data/2012-05-06/data.nq.gz here] for example input file and [http://swse.deri.org/dyldo/data/2012-05-06/redirects.nx.gz here] for example redirects file.
+LODPeas requires two inputs in order run i.e. a quad dataset and a redirects file.  For example inputs see data collected form the [http://swse.deri.org/dyldo/ Dynamic Linked Data Observatory project].  Specifically see [http://swse.deri.org/dyldo/data/2012-05-06/data.nq.gz here] for example input file and [http://swse.deri.org/dyldo/data/2012-05-06/redirects.nx.gz here] for example redirects file.
 
 LODPeas-build is the first process
 
