@@ -2,16 +2,12 @@
 
 LODPeas requires two inputs in order run i.e. a quad dataset and a redirects file.  For example inputs see data collected form the [http://swse.deri.org/dyldo/ Dynamic Linked Data Observatory project].  Specifically see [http://swse.deri.org/dyldo/data/2012-05-06/data.nq.gz here] for example input file and [http://swse.deri.org/dyldo/data/2012-05-06/redirects.nx.gz here] for example redirects file.
 
-LODPeas-build is the first process
-
-The latest jar can be found [http://code.google.com/p/voidstats/downloads/list here].
-
+However, the inputs must be pre-processed using a jar file called conker
 
 
 == LODPeas-build ==
 
-LODPeas-build uses the latest jar to build the similarity datasets.  The
-The latest jar for lodpeas-build can be found at 
+LODPeas-build uses the latest [http://code.google.com/p/lodpeas/downloads/list jar] to build the required files for LODPeas-gui.  There are fifteen commands in total
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
