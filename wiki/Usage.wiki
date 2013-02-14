@@ -7,7 +7,7 @@ LODPeas requires two inputs in order run i.e. a quad dataset and a redirects fil
 
 LODPeas-build uses the latest [http://code.google.com/p/lodpeas/downloads/list jar] (using Java 6) to build the required files for LODPeas-gui.  There are nineteen commands in total.  We have created a script called [http://code.google.com/p/lodpeas/downloads/list runLODPeas.sh] for convenience.  The following is an example command for runLODPeas.sh where 2G is the memory to the jvm.
 {{{
-#sh runLODPeas.sh quad_dataset.nq.gz redirects.nq.gz 2G
+# sh runLODPeas.sh lodpeas-build-0.1-dev.jar quad_dataset.nq.gz redirects.nx.gz 2G
 }}}
 runLODPeas.sh assumes that both inputs are gzipped.
 
@@ -17,7 +17,7 @@ KW, QUAD_NI, QUAD_SP, CONCUR_NI, CONCUR_SP
 
 == LODPeas-gui ==
 
-In order to build the LODPeas-gui web application you will need to set the aforementioned properties in the config.props file, located at WebContent/WEB-INF/config.props.  Below is an example:
+Within the LODPeas-gui web application you will need to set the aforementioned properties in the config.props file, located at WebContent/WEB-INF/config.props.  Below is an example:
 
 {{{
 KW=/home/patrick/LODPeas_jar/kWIndex/
@@ -27,4 +27,4 @@ CONCUR_NI=/home/patrick/LODPeas_jar/output/concur.ni
 CONCUR_SP=/home/patrick/LODPeas_jar/output/concur.sp
 }}}
 
-LODPeas-gui can then be built and deployed.
+An complete LODPeas-gui war file can be found [http://code.google.com/p/lodpeas/downloads/list here].
