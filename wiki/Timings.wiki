@@ -26,5 +26,4 @@ LODPeas-build uses the latest [http://code.google.com/p/lodpeas/downloads/list j
 || 17 || BuildIndex || 50min ||
 || 18 || BuildKeyword || 50min ||
 || 19 || BuildINdex || 45min ||
-
-
+||  || *Total* || *29Hr* ||
