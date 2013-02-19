@@ -1,7 +1,7 @@
 = Timings =
 
 
-LODPeas-build uses the latest [http://code.google.com/p/lodpeas/downloads/list jar] (using Java 6) to build the required files for LODPeas-gui.  There are nineteen commands in total.  We have created a script called [http://code.google.com/p/lodpeas/downloads/list runLODPeas.sh] for convenience.  The following command was run using a dataset of 11 million quads (~23G(~1G gzipped)) using a Dell Latitude (Ubuntu 12.04 2.5GHz) in 29 hours, the timings for each step are listed below.  
+LODPeas-build uses the latest [http://code.google.com/p/lodpeas/downloads/list jar] (using Java 6) to build the required files for LODPeas-gui.  There are nineteen commands in total.  We have created a bash script called [http://code.google.com/p/lodpeas/downloads/list runLODPeas.sh] for convenience.  The following command was run using a dataset of 11 million quads (~23G(~1G gzipped)) using a Dell Latitude (Ubuntu 12.04 2.5GHz) in 29 hours, the timings for each step are listed below.  
 {{{
 # sh runLODPeas.sh lodpeas-build-0.1-dev.jar quad_dataset.nq.gz redirects.nx.gz 2G
 }}}
