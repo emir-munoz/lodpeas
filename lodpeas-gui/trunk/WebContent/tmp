@@ -1,0 +1,1106 @@
+var json = [
+{
+"disambiguation"	:
+[
+{
+"id" : "<http://data.semanticweb.org/conference/iswc/2011>",
+"name" : "10th International Semantic Web Conference",
+"data" : {
+"asciiname" : "\"10th International Semantic Web Conference\"",
+"image" : [ 
+"http://data.semanticweb.org/images/logo_iswc2011.png"
+] ,
+"alias" : [ 
+"<http://semanticweb.org/id/ISWC2011>" ,
+"<http://data.semanticweb.org/conference/iswc/2011>"
+] ,
+"kwscore" : "5.089986324310303",
+"prank" : "4.7430039558093995E-6"
+}
+}
+,
+{
+"id" : "<http://data.semanticweb.org/conference/iswc/2011/pcmember/research>",
+"name" : "PC Member at ISWC2011 (Research Track)",
+"data" : {
+"asciiname" : "\"PC Member at ISWC2011 (Research Track)\"",
+"alias" : [ 
+"<http://data.semanticweb.org/conference/iswc/2011/pcmember/research>"
+] ,
+"kwscore" : "0.8681509494781494",
+"prank" : "1.0049170668935403E-5"
+}
+}
+,
+{
+"id" : "<http://data.semanticweb.org/workshop/sdow/2011/pcmember>",
+"name" : "PC Member at ISWC2011 (SDOW Workshop)",
+"data" : {
+"asciiname" : "\"PC Member at ISWC2011 (SDOW Workshop)\"",
+"alias" : [ 
+"<http://data.semanticweb.org/workshop/sdow/2011/pcmember>"
+] ,
+"kwscore" : "0.6138754487037659",
+"prank" : "7.376858775387518E-6"
+}
+}
+,
+{
+"id" : "<http://data.semanticweb.org/workshop/cold/2011/chair>",
+"name" : "Workshop Chair at ISWC2011 (COLD Workshop)",
+"data" : {
+"asciiname" : "\"Workshop Chair at ISWC2011 (COLD Workshop)\"",
+"alias" : [ 
+"<http://data.semanticweb.org/workshop/cold/2011/chair>"
+] ,
+"kwscore" : "0.4340754747390747",
+"prank" : "5.814473297505174E-6"
+}
+}
+,
+{
+"id" : "<http://data.semanticweb.org/conference/iswc/2011/pcmember/semantic-web-in-use>",
+"name" : "PC Member at ISWC2011 (Semantic Web in Use)",
+"data" : {
+"asciiname" : "\"PC Member at ISWC2011 (Semantic Web in Use)\"",
+"alias" : [ 
+"<http://data.semanticweb.org/conference/iswc/2011/pcmember/semantic-web-in-use>"
+] ,
+"kwscore" : "0.37981605529785156",
+"prank" : "4.758621798828244E-6"
+}
+}
+,
+{
+"id" : "<http://data.semanticweb.org/conference/iswc/2011/pcmember/poster-demo>",
+"name" : "PC Member at ISWC2011 (Poster and Demonstration Track)",
+"data" : {
+"asciiname" : "\"PC Member at ISWC2011 (Poster and Demonstration Track)\"",
+"alias" : [ 
+"<http://data.semanticweb.org/conference/iswc/2011/pcmember/poster-demo>"
+] ,
+"kwscore" : "0.32555660605430603",
+"prank" : "4.4465223254519515E-6"
+}
+}
+,
+{
+"id" : "<http://data.semanticweb.org/workshop/cold/2011/pcmember>",
+"name" : "PC Member at ISWC2011 (COLD Workshop)",
+"data" : {
+"asciiname" : "\"PC Member at ISWC2011 (COLD Workshop)\"",
+"alias" : [ 
+"<http://data.semanticweb.org/workshop/cold/2011/pcmember>"
+] ,
+"kwscore" : "0.2712971568107605",
+"prank" : "3.5447924346954096E-6"
+}
+}
+,
+{
+"id" : "<http://data.semanticweb.org/workshop/ordring/2011/pcmember>",
+"name" : "PC Member at ISWC2011 (OrdRing Workshop)",
+"data" : {
+"asciiname" : "\"PC Member at ISWC2011 (OrdRing Workshop)\"",
+"alias" : [ 
+"<http://data.semanticweb.org/workshop/ordring/2011/pcmember>"
+] ,
+"kwscore" : "0.15346886217594147",
+"prank" : "1.8088295519191888E-6"
+}
+}
+,
+{
+"id" : "<http://data.semanticweb.org/conference/iswc/2011/proceedings>",
+"name" : "Proceedings of the 10th International Semantic Web Conference, ISWC2011, Bonn, Germany, 23 - 27 October, 2011",
+"data" : {
+"asciiname" : "\"Proceedings of the 10th International Semantic Web Conference, ISWC2011, Bonn, Germany, 23 - 27 October, 2011\"",
+"alias" : [ 
+"<http://data.semanticweb.org/conference/iswc/2011/proceedings>"
+] ,
+"kwscore" : "0.13564857840538025",
+"prank" : "2.7192666038899915E-6"
+}
+}
+,
+{
+"id" : "<http://data.semanticweb.org/conference/iswc/2011/senior-pcmember/research>",
+"name" : "Senior PC Member at ISWC2011 (Research Track)",
+"data" : {
+"asciiname" : "\"Senior PC Member at ISWC2011 (Research Track)\"",
+"alias" : [ 
+"<http://data.semanticweb.org/conference/iswc/2011/senior-pcmember/research>"
+] ,
+"kwscore" : "0.13564857840538025",
+"prank" : "1.7932773062057095E-6"
+}
+}
+]
+}
+,
+{
+"id" : "<http://data.semanticweb.org/conference/iswc/2011>",
+"name" : "10th International Semantic Web Conference",
+"data" : {
+"asciiname" : "\"10th International Semantic Web Conference\"",
+"$color" : "#00FF00",
+"$type" : "circle",
+"$dim" : "20",
+"image" : [ 
+"http://data.semanticweb.org/images/logo_iswc2011.png"
+] ,
+"alias" : [ 
+"<http://semanticweb.org/id/ISWC2011>" ,
+"<http://data.semanticweb.org/conference/iswc/2011>"
+] ,
+"kwscore" : "5.089986324310303",
+"prank" : "4.7430039558093995E-6"
+}
+,
+"adjacencies": [
+{
+"nodeTo" : "<http://data.semanticweb.org/conference/iswc/2011/tracks/research>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.99993896484375",
+"common" : [
+{
+"plabel" : "is the super-event of",
+"pnode" : "<http://data.semanticweb.org/ns/swc/ontology#isSuperEventOf>",
+"vlabel" : "MANCHustifications and Provenance",
+"vnode" : "http://data.semanticweb.org/conference/iswc/2011/sessions/research/10",
+"n" : "2",
+"dir" : "o"
+}
+,
+{
+"plabel" : "is the super-event of",
+"pnode" : "<http://data.semanticweb.org/ns/swc/ontology#isSuperEventOf>",
+"vlabel" : "Ontology Evaluation",
+"vnode" : "http://data.semanticweb.org/conference/iswc/2011/sessions/research/11",
+"n" : "2",
+"dir" : "o"
+}
+,
+{
+"plabel" : "is the super-event of",
+"pnode" : "<http://data.semanticweb.org/ns/swc/ontology#isSuperEventOf>",
+"vlabel" : "Social Web",
+"vnode" : "http://data.semanticweb.org/conference/iswc/2011/sessions/research/12",
+"n" : "2",
+"dir" : "o"
+}
+,
+{
+"plabel" : "is the super-event of",
+"pnode" : "<http://data.semanticweb.org/ns/swc/ontology#isSuperEventOf>",
+"vlabel" : "Ontology Matching, Mapping",
+"vnode" : "http://data.semanticweb.org/conference/iswc/2011/sessions/research/13",
+"n" : "2",
+"dir" : "o"
+}
+,
+{
+"plabel" : "is the super-event of",
+"pnode" : "<http://data.semanticweb.org/ns/swc/ontology#isSuperEventOf>",
+"vlabel" : "User Interaction",
+"vnode" : "http://data.semanticweb.org/conference/iswc/2011/sessions/research/14",
+"n" : "2",
+"dir" : "o"
+}
+,
+{
+"plabel" : "is the super-event of",
+"pnode" : "<http://data.semanticweb.org/ns/swc/ontology#isSuperEventOf>",
+"vlabel" : "RDF Query - Alternative Approaches",
+"vnode" : "http://data.semanticweb.org/conference/iswc/2011/sessions/research/1",
+"n" : "2",
+"dir" : "o"
+}
+,
+{
+"plabel" : "is the super-event of",
+"pnode" : "<http://data.semanticweb.org/ns/swc/ontology#isSuperEventOf>",
+"vlabel" : "Policies and Trust",
+"vnode" : "http://data.semanticweb.org/conference/iswc/2011/sessions/research/2",
+"n" : "2",
+"dir" : "o"
+}
+,
+{
+"plabel" : "is the super-event of",
+"pnode" : "<http://data.semanticweb.org/ns/swc/ontology#isSuperEventOf>",
+"vlabel" : "RDF Query - Performance Issues",
+"vnode" : "http://data.semanticweb.org/conference/iswc/2011/sessions/research/3",
+"n" : "2",
+"dir" : "o"
+}
+,
+{
+"plabel" : "is the super-event of",
+"pnode" : "<http://data.semanticweb.org/ns/swc/ontology#isSuperEventOf>",
+"vlabel" : "KR - Reasoners",
+"vnode" : "http://data.semanticweb.org/conference/iswc/2011/sessions/research/4",
+"n" : "2",
+"dir" : "o"
+}
+,
+{
+"plabel" : "is the super-event of",
+"pnode" : "<http://data.semanticweb.org/ns/swc/ontology#isSuperEventOf>",
+"vlabel" : "RDF Query - Multiple Sources",
+"vnode" : "http://data.semanticweb.org/conference/iswc/2011/sessions/research/5",
+"n" : "2",
+"dir" : "o"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://data.semanticweb.org/conference/iswc/2011/tracks/semantic-web-in-use>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.96875",
+"common" : [
+{
+"plabel" : "is the super-event of",
+"pnode" : "<http://data.semanticweb.org/ns/swc/ontology#isSuperEventOf>",
+"vlabel" : "In-Use: Architecture",
+"vnode" : "http://data.semanticweb.org/conference/iswc/2011/sessions/inuse/1",
+"n" : "2",
+"dir" : "o"
+}
+,
+{
+"plabel" : "is the super-event of",
+"pnode" : "<http://data.semanticweb.org/ns/swc/ontology#isSuperEventOf>",
+"vlabel" : "In-Use: Ontologies and Linked Data",
+"vnode" : "http://data.semanticweb.org/conference/iswc/2011/sessions/inuse/2",
+"n" : "2",
+"dir" : "o"
+}
+,
+{
+"plabel" : "is the super-event of",
+"pnode" : "<http://data.semanticweb.org/ns/swc/ontology#isSuperEventOf>",
+"vlabel" : "In-Use: Environmental Data",
+"vnode" : "http://data.semanticweb.org/conference/iswc/2011/sessions/inuse/3",
+"n" : "2",
+"dir" : "o"
+}
+,
+{
+"plabel" : "is the super-event of",
+"pnode" : "<http://data.semanticweb.org/ns/swc/ontology#isSuperEventOf>",
+"vlabel" : "In-Use: Content Management",
+"vnode" : "http://data.semanticweb.org/conference/iswc/2011/sessions/inuse/4",
+"n" : "2",
+"dir" : "o"
+}
+,
+{
+"plabel" : "is the super-event of",
+"pnode" : "<http://data.semanticweb.org/ns/swc/ontology#isSuperEventOf>",
+"vlabel" : "In-Use: Applications",
+"vnode" : "http://data.semanticweb.org/conference/iswc/2011/sessions/inuse/5",
+"n" : "2",
+"dir" : "o"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://data.semanticweb.org/conference/iswc/2011/tracks/doctoral-consortium>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.875",
+"common" : [
+{
+"plabel" : "is the super-event of",
+"pnode" : "<http://data.semanticweb.org/ns/swc/ontology#isSuperEventOf>",
+"vlabel" : "1",
+"vnode" : "http://data.semanticweb.org/conference/iswc/2011/sessions/doctoral-consortium/1",
+"n" : "2",
+"dir" : "s"
+}
+,
+{
+"plabel" : "is the super-event of",
+"pnode" : "<http://data.semanticweb.org/ns/swc/ontology#isSuperEventOf>",
+"vlabel" : "2",
+"vnode" : "http://data.semanticweb.org/conference/iswc/2011/sessions/doctoral-consortium/2",
+"n" : "2",
+"dir" : "o"
+}
+,
+{
+"plabel" : "is the super-event of",
+"pnode" : "<http://data.semanticweb.org/ns/swc/ontology#isSuperEventOf>",
+"vlabel" : "3",
+"vnode" : "http://data.semanticweb.org/conference/iswc/2011/sessions/doctoral-consortium/3",
+"n" : "2",
+"dir" : "o"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://data.semanticweb.org/conference/iswc/2011/tracks/industry>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.75",
+"common" : [
+{
+"plabel" : "is the super-event of",
+"pnode" : "<http://data.semanticweb.org/ns/swc/ontology#isSuperEventOf>",
+"vlabel" : "1",
+"vnode" : "http://data.semanticweb.org/conference/iswc/2011/sessions/industry/1",
+"n" : "2",
+"dir" : "s"
+}
+,
+{
+"plabel" : "is the super-event of",
+"pnode" : "<http://data.semanticweb.org/ns/swc/ontology#isSuperEventOf>",
+"vlabel" : "2",
+"vnode" : "http://data.semanticweb.org/conference/iswc/2011/sessions/industry/2",
+"n" : "2",
+"dir" : "o"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://data.semanticweb.org/workshop/cold/2011>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.75",
+"common" : [
+{
+"plabel" : "has role",
+"pnode" : "<http://data.semanticweb.org/ns/swc/ontology#hasRole>",
+"vlabel" : "Workshop Chair at ISWC2011 (COLD Workshop)",
+"vnode" : "http://data.semanticweb.org/workshop/cold/2011/chair",
+"n" : "2",
+"dir" : "o"
+}
+,
+{
+"plabel" : "has role",
+"pnode" : "<http://data.semanticweb.org/ns/swc/ontology#hasRole>",
+"vlabel" : "PC Member at ISWC2011 (COLD Workshop)",
+"vnode" : "http://data.semanticweb.org/workshop/cold/2011/pcmember",
+"n" : "2",
+"dir" : "s"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://data.semanticweb.org/workshop/evodyn/2011>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.75",
+"common" : [
+{
+"plabel" : "has role",
+"pnode" : "<http://data.semanticweb.org/ns/swc/ontology#hasRole>",
+"vlabel" : "chair",
+"vnode" : "http://data.semanticweb.org/workshop/evodyn/2011/chair",
+"n" : "2",
+"dir" : "s"
+}
+,
+{
+"plabel" : "has role",
+"pnode" : "<http://data.semanticweb.org/ns/swc/ontology#hasRole>",
+"vlabel" : "PC Member at ISWC2011 (EvoDyn Workshop)",
+"vnode" : "http://data.semanticweb.org/workshop/evodyn/2011/pcmember",
+"n" : "2",
+"dir" : "o"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://data.semanticweb.org/workshop/lisc/2011>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.75",
+"common" : [
+{
+"plabel" : "has role",
+"pnode" : "<http://data.semanticweb.org/ns/swc/ontology#hasRole>",
+"vlabel" : "Workshop Chair at ISWC2011 (LISC Workshop)",
+"vnode" : "http://data.semanticweb.org/workshop/lisc/2011/chair",
+"n" : "2",
+"dir" : "s"
+}
+,
+{
+"plabel" : "has role",
+"pnode" : "<http://data.semanticweb.org/ns/swc/ontology#hasRole>",
+"vlabel" : "PC Member at ISWC2011 (LISC Workshop)",
+"vnode" : "http://data.semanticweb.org/workshop/lisc/2011/pcmember",
+"n" : "2",
+"dir" : "s"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://data.semanticweb.org/workshop/ocas/2011>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.75",
+"common" : [
+{
+"plabel" : "has role",
+"pnode" : "<http://data.semanticweb.org/ns/swc/ontology#hasRole>",
+"vlabel" : "Workshop Chair at ISWC2011 (OCAS Workshop)",
+"vnode" : "http://data.semanticweb.org/workshop/ocas/2011/chair",
+"n" : "2",
+"dir" : "s"
+}
+,
+{
+"plabel" : "has role",
+"pnode" : "<http://data.semanticweb.org/ns/swc/ontology#hasRole>",
+"vlabel" : "PC Member at ISWC2011 (OCAS Workshop)",
+"vnode" : "http://data.semanticweb.org/workshop/ocas/2011/pcmember",
+"n" : "2",
+"dir" : "s"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://data.semanticweb.org/workshop/sdow/2011>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.75",
+"common" : [
+{
+"plabel" : "has role",
+"pnode" : "<http://data.semanticweb.org/ns/swc/ontology#hasRole>",
+"vlabel" : "Workshop Chair at ISWC2011 (SDOW Workshop)",
+"vnode" : "http://data.semanticweb.org/workshop/sdow/2011/chair",
+"n" : "2",
+"dir" : "o"
+}
+,
+{
+"plabel" : "has role",
+"pnode" : "<http://data.semanticweb.org/ns/swc/ontology#hasRole>",
+"vlabel" : "PC Member at ISWC2011 (SDOW Workshop)",
+"vnode" : "http://data.semanticweb.org/workshop/sdow/2011/pcmember",
+"n" : "2",
+"dir" : "o"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://data.semanticweb.org/workshop/ssws/2011>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.75",
+"common" : [
+{
+"plabel" : "has role",
+"pnode" : "<http://data.semanticweb.org/ns/swc/ontology#hasRole>",
+"vlabel" : "Workshop Chair at ISWC2011 (SSWS Workshop)",
+"vnode" : "http://data.semanticweb.org/workshop/ssws/2011/chair",
+"n" : "2",
+"dir" : "o"
+}
+,
+{
+"plabel" : "has role",
+"pnode" : "<http://data.semanticweb.org/ns/swc/ontology#hasRole>",
+"vlabel" : "PC Member at ISWC2011 (SSWS Workshop)",
+"vnode" : "http://data.semanticweb.org/workshop/ssws/2011/pcmember",
+"n" : "2",
+"dir" : "o"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://semanticweb.org/id/OCAS2011>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.6756756756756757",
+"common" : [
+{
+"plabel" : "Property-3AStart date-23aux",
+"pnode" : "<http://semanticweb.org/id/Property-3AStart_date-23aux>",
+"vlabel" : "",
+"vnode" : "2455857.5",
+"n" : "2",
+"dir" : "o"
+}
+,
+{
+"plabel" : "Has location city",
+"pnode" : "<http://semanticweb.org/id/Property-3AHas_location_city>",
+"vlabel" : "Bonn",
+"vnode" : "http://semanticweb.org/id/Bonn",
+"n" : "3",
+"dir" : "o"
+}
+,
+{
+"plabel" : "type",
+"pnode" : "<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>",
+"vlabel" : "Semantic Web events 2011",
+"vnode" : "http://semanticweb.org/id/Concept-3ASemantic_Web_events_2011",
+"n" : "37",
+"dir" : "o"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://data.semanticweb.org/workshop/ordring/2011>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.5",
+"common" : [
+{
+"plabel" : "has role",
+"pnode" : "<http://data.semanticweb.org/ns/swc/ontology#hasRole>",
+"vlabel" : "PC Member at ISWC2011 (OrdRing Workshop)",
+"vnode" : "http://data.semanticweb.org/workshop/ordring/2011/pcmember",
+"n" : "2",
+"dir" : "o"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://korrekt.org/page/Special:URIResolver/ISWC2011>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.5",
+"common" : [
+{
+"plabel" : "label",
+"pnode" : "<http://www.w3.org/2000/01/rdf-schema#label>",
+"vlabel" : "",
+"vnode" : "ISWC2011",
+"n" : "2",
+"dir" : "o"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://semanticweb.org/id/DL1994>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.3333333333333333",
+"common" : [
+{
+"plabel" : "Has location city",
+"pnode" : "<http://semanticweb.org/id/Property-3AHas_location_city>",
+"vlabel" : "Bonn",
+"vnode" : "http://semanticweb.org/id/Bonn",
+"n" : "3",
+"dir" : "o"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://data.semanticweb.org/conference/iswc/2009>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.1443850267379679",
+"common" : [
+{
+"plabel" : "Event in series",
+"pnode" : "<http://semanticweb.org/id/Property-3AEvent_in_series>",
+"vlabel" : "ISWC",
+"vnode" : "http://semanticweb.org/id/ISWC",
+"n" : "11",
+"dir" : "o"
+}
+,
+{
+"plabel" : "type",
+"pnode" : "<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>",
+"vlabel" : "Conference Event",
+"vnode" : "http://data.semanticweb.org/ns/swc/ontology#ConferenceEvent",
+"n" : "17",
+"dir" : "o"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://data.semanticweb.org/conference/iswc/2010>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.1443850267379679",
+"common" : [
+{
+"plabel" : "Event in series",
+"pnode" : "<http://semanticweb.org/id/Property-3AEvent_in_series>",
+"vlabel" : "ISWC",
+"vnode" : "http://semanticweb.org/id/ISWC",
+"n" : "11",
+"dir" : "o"
+}
+,
+{
+"plabel" : "type",
+"pnode" : "<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>",
+"vlabel" : "Conference Event",
+"vnode" : "http://data.semanticweb.org/ns/swc/ontology#ConferenceEvent",
+"n" : "17",
+"dir" : "o"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://semanticweb.org/id/ASWC2007>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.09090909090909091",
+"common" : [
+{
+"plabel" : "Event in series",
+"pnode" : "<http://semanticweb.org/id/Property-3AEvent_in_series>",
+"vlabel" : "ISWC",
+"vnode" : "http://semanticweb.org/id/ISWC",
+"n" : "11",
+"dir" : "o"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://semanticweb.org/id/ISWC2002>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.09090909090909091",
+"common" : [
+{
+"plabel" : "Event in series",
+"pnode" : "<http://semanticweb.org/id/Property-3AEvent_in_series>",
+"vlabel" : "ISWC",
+"vnode" : "http://semanticweb.org/id/ISWC",
+"n" : "11",
+"dir" : "o"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://semanticweb.org/id/ISWC2003>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.09090909090909091",
+"common" : [
+{
+"plabel" : "Event in series",
+"pnode" : "<http://semanticweb.org/id/Property-3AEvent_in_series>",
+"vlabel" : "ISWC",
+"vnode" : "http://semanticweb.org/id/ISWC",
+"n" : "11",
+"dir" : "o"
+}
+]
+}
+}
+,
+{
+"nodeTo" : "<http://semanticweb.org/id/ISWC2004>",
+"data" :  {
+"$color" : "#FF0000",
+"$dim" : "2",
+"score" : "0.09090909090909091",
+"common" : [
+{
+"plabel" : "Event in series",
+"pnode" : "<http://semanticweb.org/id/Property-3AEvent_in_series>",
+"vlabel" : "ISWC",
+"vnode" : "http://semanticweb.org/id/ISWC",
+"n" : "11",
+"dir" : "o"
+}
+]
+}
+}
+]
+}
+,
+{
+"id" : "<http://data.semanticweb.org/conference/iswc/2011/tracks/research>",
+"name" : "ISWC2011 Research Track",
+"data" : {
+"asciiname" : "\"ISWC2011 Research Track\"",
+"$color" : "#00FF00",
+"$type" : "circle",
+"$dim" : "20",
+"alias" : [ 
+"<http://data.semanticweb.org/conference/iswc/2011/tracks/research>"
+] ,
+"kwscore" : "1.4644641487393528E-4",
+"prank" : "8.396304451707692E-7"
+}
+}
+,
+{
+"id" : "<http://data.semanticweb.org/conference/iswc/2011/tracks/semantic-web-in-use>",
+"name" : "ISWC2011 Semantic Web In Use Track",
+"data" : {
+"asciiname" : "\"ISWC2011 Semantic Web In Use Track\"",
+"$color" : "#00FF00",
+"$type" : "circle",
+"$dim" : "20",
+"alias" : [ 
+"<http://data.semanticweb.org/conference/iswc/2011/tracks/semantic-web-in-use>"
+] ,
+"kwscore" : "1.0983481479343027E-4",
+"prank" : "5.994497769279405E-7"
+}
+}
+,
+{
+"id" : "<http://data.semanticweb.org/conference/iswc/2011/tracks/doctoral-consortium>",
+"name" : "ISWC2011 Doctoral Consortium",
+"data" : {
+"asciiname" : "\"ISWC2011 Doctoral Consortium\"",
+"$color" : "#22FF22",
+"$type" : "circle",
+"$dim" : "18",
+"alias" : [ 
+"<http://data.semanticweb.org/conference/iswc/2011/tracks/doctoral-consortium>"
+] ,
+"kwscore" : "9.152900747722015E-5",
+"prank" : "4.932647925670608E-7"
+}
+}
+,
+{
+"id" : "<http://data.semanticweb.org/conference/iswc/2011/tracks/industry>",
+"name" : "ISWC2011 Industry Track",
+"data" : {
+"asciiname" : "\"ISWC2011 Industry Track\"",
+"$color" : "#44FF44",
+"$type" : "circle",
+"$dim" : "16",
+"alias" : [ 
+"<http://data.semanticweb.org/conference/iswc/2011/tracks/industry>"
+] ,
+"kwscore" : "9.152900747722015E-5",
+"prank" : "4.89138017201185E-7"
+}
+}
+,
+{
+"id" : "<http://data.semanticweb.org/workshop/cold/2011>",
+"name" : "Second International Workshop on Consuming Linked Data",
+"data" : {
+"asciiname" : "\"Second International Workshop on Consuming Linked Data\"",
+"$color" : "#44FF44",
+"$type" : "circle",
+"$dim" : "16",
+"alias" : [ 
+"<http://data.semanticweb.org/workshop/cold/2011>"
+] ,
+"kwscore" : "1.4644641487393528E-4",
+"prank" : "8.338057568835211E-7"
+}
+}
+,
+{
+"id" : "<http://data.semanticweb.org/workshop/evodyn/2011>",
+"name" : "Joint Workshop on Knowledge Evolution and Ontology Dynamics",
+"data" : {
+"asciiname" : "\"Joint Workshop on Knowledge Evolution and Ontology Dynamics\"",
+"$color" : "#44FF44",
+"$type" : "circle",
+"$dim" : "16",
+"alias" : [ 
+"<http://data.semanticweb.org/workshop/evodyn/2011>"
+] ,
+"kwscore" : "9.152900747722015E-5",
+"prank" : "5.152779749550973E-7"
+}
+}
+,
+{
+"id" : "<http://data.semanticweb.org/workshop/lisc/2011>",
+"name" : "1st International Workshop on Linked Science",
+"data" : {
+"asciiname" : "\"1st International Workshop on Linked Science\"",
+"$color" : "#44FF44",
+"$type" : "circle",
+"$dim" : "16",
+"alias" : [ 
+"<http://data.semanticweb.org/workshop/lisc/2011>"
+] ,
+"kwscore" : "1.0983481479343027E-4",
+"prank" : "5.806062972624204E-7"
+}
+}
+,
+{
+"id" : "<http://data.semanticweb.org/workshop/ocas/2011>",
+"name" : "Ontologies come of Age in the Semantic Web",
+"data" : {
+"asciiname" : "\"Ontologies come of Age in the Semantic Web\"",
+"$color" : "#44FF44",
+"$type" : "circle",
+"$dim" : "16",
+"alias" : [ 
+"<http://data.semanticweb.org/workshop/ocas/2011>"
+] ,
+"kwscore" : "9.152900747722015E-5",
+"prank" : "5.683086214958166E-7"
+}
+}
+,
+{
+"id" : "<http://data.semanticweb.org/workshop/sdow/2011>",
+"name" : "4th International Workshop on Social Data on the Web",
+"data" : {
+"asciiname" : "\"4th International Workshop on Social Data on the Web\"",
+"$color" : "#44FF44",
+"$type" : "circle",
+"$dim" : "16",
+"alias" : [ 
+"<http://data.semanticweb.org/workshop/sdow/2011>"
+] ,
+"kwscore" : "1.2814061483368278E-4",
+"prank" : "7.61947433147725E-7"
+}
+}
+,
+{
+"id" : "<http://data.semanticweb.org/workshop/ssws/2011>",
+"name" : "The 7th International Workshop on Scalable Semantic Web Knowledge Base Systems",
+"data" : {
+"asciiname" : "\"The 7th International Workshop on Scalable Semantic Web Knowledge Base Systems\"",
+"$color" : "#44FF44",
+"$type" : "circle",
+"$dim" : "16",
+"alias" : [ 
+"<http://data.semanticweb.org/workshop/ssws/2011>"
+] ,
+"kwscore" : "1.0983481479343027E-4",
+"prank" : "5.803032081530546E-7"
+}
+}
+,
+{
+"id" : "<http://semanticweb.org/id/OCAS2011>",
+"name" : "OCAS2011",
+"data" : {
+"asciiname" : "\"OCAS2011\"",
+"$color" : "#66FF66",
+"$type" : "circle",
+"$dim" : "14",
+"alias" : [ 
+"<http://semanticweb.org/id/OCAS2011>"
+] ,
+"kwscore" : "4.393392591737211E-4",
+"prank" : "2.518882638469222E-6"
+}
+}
+,
+{
+"id" : "<http://data.semanticweb.org/workshop/ordring/2011>",
+"name" : "First International Workshop on Ordering and Reasoning",
+"data" : {
+"asciiname" : "\"First International Workshop on Ordering and Reasoning\"",
+"$color" : "#88FF88",
+"$type" : "circle",
+"$dim" : "10",
+"alias" : [ 
+"<http://data.semanticweb.org/workshop/ordring/2011>"
+] ,
+"kwscore" : "9.152900747722015E-5",
+"prank" : "5.173385488888016E-7"
+}
+}
+,
+{
+"id" : "<http://korrekt.org/page/Special:URIResolver/ISWC2011>",
+"name" : "ISWC2011",
+"data" : {
+"asciiname" : "\"ISWC2011\"",
+"$color" : "#88FF88",
+"$type" : "circle",
+"$dim" : "10",
+"alias" : [ 
+"<http://korrekt.org/page/Special:URIResolver/ISWC2011>"
+] ,
+"kwscore" : "9.152900929620955E-6",
+"prank" : "5.42715312690234E-8"
+}
+}
+,
+{
+"id" : "<http://semanticweb.org/id/DL1994>",
+"name" : "DL1994",
+"data" : {
+"asciiname" : "\"DL1994\"",
+"$color" : "#99FF99",
+"$type" : "circle",
+"$dim" : "8",
+"alias" : [ 
+"<http://semanticweb.org/id/DL1994>"
+] ,
+"kwscore" : "1.2814061483368278E-4",
+"prank" : "7.018073802100844E-7"
+}
+}
+,
+{
+"id" : "<http://data.semanticweb.org/conference/iswc/2009>",
+"name" : "8th International Semantic Web Conference",
+"data" : {
+"asciiname" : "\"8th International Semantic Web Conference\"@en",
+"$color" : "#BBFFBB",
+"$type" : "circle",
+"$dim" : "4",
+"image" : [ 
+"http://data.semanticweb.org/images/logo_iswc2009.png"
+] ,
+"alias" : [ 
+"<http://semanticweb.org/id/ISWC2009>" ,
+"<http://data.semanticweb.org/conference/iswc/2009>"
+] ,
+"kwscore" : "0.0058578564785420895",
+"prank" : "4.009531494375551E-6"
+}
+}
+,
+{
+"id" : "<http://data.semanticweb.org/conference/iswc/2010>",
+"name" : "9th International Semantic Web Conference",
+"data" : {
+"asciiname" : "\"9th International Semantic Web Conference\"",
+"$color" : "#BBFFBB",
+"$type" : "circle",
+"$dim" : "4",
+"image" : [ 
+"http://data.semanticweb.org/images/logo_iswc2010.png"
+] ,
+"alias" : [ 
+"<http://data.semanticweb.org/conference/iswc/2010>" ,
+"<http://semanticweb.org/id/ISWC2010>"
+] ,
+"kwscore" : "0.007029428146779537",
+"prank" : "5.154563496034825E-6"
+}
+}
+,
+{
+"id" : "<http://semanticweb.org/id/ASWC2007>",
+"name" : "ISWC2007+ASWC2007",
+"data" : {
+"asciiname" : "\"ISWC2007+ASWC2007\"",
+"$color" : "#CCFFCC",
+"$type" : "circle",
+"$dim" : "2",
+"alias" : [ 
+"<http://semanticweb.org/id/ASWC2007>" ,
+"<http://semanticweb.org/id/ISWC2007-2BASWC2007>" ,
+"<http://semanticweb.org/id/ISWC2007>"
+] ,
+"kwscore" : "0.008200999349355698",
+"prank" : "2.36134492297424E-5"
+}
+}
+,
+{
+"id" : "<http://semanticweb.org/id/ISWC2002>",
+"name" : "ISWC2002",
+"data" : {
+"asciiname" : "\"ISWC2002\"",
+"$color" : "#CCFFCC",
+"$type" : "circle",
+"$dim" : "2",
+"alias" : [ 
+"<http://semanticweb.org/id/ISWC2002>"
+] ,
+"kwscore" : "5.857856594957411E-4",
+"prank" : "3.2749214824434603E-6"
+}
+}
+,
+{
+"id" : "<http://semanticweb.org/id/ISWC2003>",
+"name" : "ISWC2003",
+"data" : {
+"asciiname" : "\"ISWC2003\"",
+"$color" : "#CCFFCC",
+"$type" : "circle",
+"$dim" : "2",
+"alias" : [ 
+"<http://semanticweb.org/id/ISWC2003>"
+] ,
+"kwscore" : "5.125624593347311E-4",
+"prank" : "2.7194573704036884E-6"
+}
+}
+,
+{
+"id" : "<http://semanticweb.org/id/ISWC2004>",
+"name" : "ISWC2004",
+"data" : {
+"asciiname" : "\"ISWC2004\"",
+"$color" : "#CCFFCC",
+"$type" : "circle",
+"$dim" : "2",
+"alias" : [ 
+"<http://semanticweb.org/id/ISWC2004>"
+] ,
+"kwscore" : "3.661160299088806E-4",
+"prank" : "2.0403842881933087E-6"
+}
+}
+];
