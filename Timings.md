@@ -1,0 +1,30 @@
+# Timings #
+
+
+LODPeas-build uses the latest [jar](http://code.google.com/p/lodpeas/downloads/list) (using Java 6) to build the required files for LODPeas-gui.  There are nineteen commands in total.  We have created a bash script called [runLODPeas.sh](http://code.google.com/p/lodpeas/downloads/list) for convenience.  The following command was run using a dataset of 11 million quads (~23G(~1G gzipped)) using a Dell Latitude (Ubuntu 12.04 2.5GHz) in 29 hours, the timings for each step are listed below.
+```
+# sh runLODPeas.sh lodpeas-build-0.1-dev.jar quad_dataset.nq.gz redirects.nx.gz 2G
+```
+
+| **Step** | **Command** | **Time** |
+|:---------|:------------|:---------|
+| 1 | CleanRedirects | 20sec |
+| 2 | ExtractDocumentGraph | 1hr 15min |
+| 3 | Sort | 2min |
+| 4 | RankGraph | 2min |
+| 5 | Sort | 1hr 30min |
+| 6 | RankTerms | 30min |
+| 7 | Consolidate | 40min |
+| 8 | Sort | 1hr 10min |
+| 9 | RankTerms | 30min |
+| 10 | Sort | 4min |
+| 11 | Sort | 1hr 10min |
+| 12 | PickLabelsRank | 15min |
+| 13 | JoinQuadsLabelsRank | 4hr |
+| 14 | Sort | 2hr |
+| 15 | Sort | 2hr |
+| 16 | RunConcurrance | 11hr |
+| 17 | BuildIndex | 50min |
+| 18 | BuildKeyword | 50min |
+| 19 | BuildINdex | 45min |
+|  | **Total** | **29hr** |
